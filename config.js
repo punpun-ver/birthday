@@ -30,7 +30,7 @@ var config = {
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
-        turn_on: "Chaof",
+        turn_on: "Chao",
         play: "Ban",
         bannar_coming: "Dep gai",
         balloons_flying: "好像少点东西",
