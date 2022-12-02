@@ -11,7 +11,7 @@ var config = {
         "Vì không phải ngày nào ",
         "cũng là ngày 5/12 này",
         "Ngày mà bạn được sinh ra.",
-        "Happy birhday!",
+        "Happy birthday!",
         "Gửi đến: ",
         "Thùy Dương - 5/12/2003",
     ],
